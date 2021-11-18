@@ -1,4 +1,4 @@
-### Hi there, I am Jhonatan Sousa 👋
+### Hi there 👋 I am Jhonatan Sousa 
 
 - 🔭 I'm currently looking for my first job as a developer
 - 🌱 I’m currently learning JavaScript
