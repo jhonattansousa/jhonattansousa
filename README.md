@@ -3,7 +3,6 @@
 - 🔭 I'm currently looking for my first job as a developer
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: jhonatann95@hotmail.com 
-- ⚡ Fun fact: Fan of games and Spider man
 
 <div>
   <a href="https://github.com/jhonattansousa">
