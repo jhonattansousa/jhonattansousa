@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Jhonatan Sousa 
 
-- 🔭 Currently working with RPA development
+- 💼 Currently RPA Developer at @T2CGroup
 - 🌱 I'm currently learning Python and other automation tools 
+- 💻 Currently taking courses on Faculdade das Américas (FAM) - Tecnológo em Análise e Desenvolvimento de Sistemas
 - 📫 How to reach me: jhonatann95@hotmail.com 
 
 <div>
