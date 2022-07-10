@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Jhonatan Sousa 
 
-- 🔭 I'm currently looking for my first job as a developer
-- 🌱 I’m currently learning JavaScript
+- 🔭 Currently working with RPA development
+- 🌱 I'm currently learning Python and other automation tools 
 - 📫 How to reach me: jhonatann95@hotmail.com 
 
 <div>
